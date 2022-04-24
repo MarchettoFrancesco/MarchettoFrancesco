@@ -5,6 +5,7 @@ Software Engineer
 -----------------
 
 👨‍🎓 I’m currently learning Internet Of Things, Machine Learning and big data at the University of Udine 
+
 👀 I’m interested in Artificial Intelligence and Data Science
 
 * ✉️  You can contact me at [marchetto.francesco@spes.uniud.it](mailto:marchetto.francesco@spes.uniud.it)
