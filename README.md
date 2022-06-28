@@ -17,8 +17,8 @@ Computer Science Student
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   
 ### Skills
-<a href="https://www.r-project.org/" target"_blank" rel="noreferrer"><img src="https://www.juliafordatascience.com/content/images/2021/06/Rlogo.svg"width="36" height="36" alt="R" /></a>
-<a href="https://racket-lang.org/" target"_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg"width="36" height="36" alt="DrRacket" /></a>
+<a href="https://www.r-project.org/" target"_blank" rel="noreferrer"><img src="https://www.juliafordatascience.com/content/images/2021/06/Rlogo.svg" width="36" height="36" alt="R" /></a>
+<a href="https://racket-lang.org/" target"_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Racket-logo.svg" width="36" height="36" alt="DrRacket" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a>
 <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
