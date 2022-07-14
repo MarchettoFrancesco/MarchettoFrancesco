@@ -1,7 +1,7 @@
 Hi 👋 My name is Francesco Marchetto
 ====================================
 
-Computer Science Student
+Student
 -----------------
 
 👨‍🎓 I’m currently learning Internet Of Things, Machine Learning and big data at the University of Udine 
