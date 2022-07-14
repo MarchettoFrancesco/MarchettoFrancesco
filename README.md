@@ -6,7 +6,7 @@ Computer Science Student
 
 👨‍🎓 I’m currently learning Internet Of Things, Machine Learning and big data at the University of Udine 
 
-👀 I’m interested in web3 and apps infrastructure
+👀 I’m interested in web3 and blockchain
 
 * ✉️  You can contact me at [marchetto.francesco@spes.uniud.it](mailto:marchetto.francesco@spes.uniud.it)
 
