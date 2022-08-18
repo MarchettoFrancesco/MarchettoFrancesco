@@ -10,7 +10,7 @@ Student
 
 * ✉️  You can contact me at [marchetto.francesco@spes.uniud.it](mailto:marchetto.francesco@spes.uniud.it)
 
-### Main Skills
+## Main Skills
 
 <p align="left">
 
