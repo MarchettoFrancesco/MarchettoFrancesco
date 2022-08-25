@@ -8,7 +8,7 @@ Student
 
 👀 I’m interested in web3 and blockchain
 
-* ✉️  You can contact me at [marchetto.francesco@spes.uniud.it](mailto:marchetto.francesco@spes.uniud.it)
+* ✉️  You can contact me at [tobifsgl@gmail.com](mailto:tobifsgl@gmail.com)
 
 ## Main Skills
 
