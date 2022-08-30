@@ -8,7 +8,6 @@ Student
 
 👀 I’m interested in web3 and blockchain
 
-* ✉️  You can contact me at [tobifsgl@gmail.com](mailto:tobifsgl@gmail.com)
 
 ## Main Skills
 
@@ -33,7 +32,7 @@ Student
 ## Reach out to me:
 
 <a href="https://linkedin.com/in/francesco-marchetto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silver2002.fm@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobifsgl@gmail.com)
 
 
 
