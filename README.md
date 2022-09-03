@@ -8,6 +8,8 @@ Student
 
 👀 I’m interested in web3 and blockchain
 
+🏆 Awarded in Tezos Hackaton
+
 
 ## Main Skills
 
