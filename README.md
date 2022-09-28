@@ -17,7 +17,7 @@ Student
 
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
   
-## 🛠️ Technologies I use
+## 🛠️ Technologies I used
   
 ![](https://img.shields.io/badge/Tezos-SmartPy%2c%20Taquito-informational?style=for-the-badge&color=blue&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Ethereum-Solidity%2c%20Web3.JS-informational?style=for-the-badge&color=7980A0&logo=ethereum&logoColor=white)
