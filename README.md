@@ -4,11 +4,12 @@ Hi 👋 My name is Francesco Marchetto
 Student
 -----------------
 
-👨‍🎓 I’m currently learning Internet Of Things, Machine Learning and big data at the University of Udine 
+👨‍🎓 I have a Bachelor Degree in Internet Of Things, Machine Learning and big data at the University of Udine 
+I am currently enrolled in a Master Degree in Artificial Intelligence and CyberSecurity at University of Udine and University of Klagenfurt
 
 👀 I’m interested in AI for the medical field, big passion for hardware and finance
 
-🏆 Awarded in Tezos Hackaton and ICPC partecipant
+🏆 Awards: Tezos Hackaton, ICPC partecipant, Digithon top 100 startups in Italy, UniCredit NextGen partecipant
 
 
 ## Main Skills
