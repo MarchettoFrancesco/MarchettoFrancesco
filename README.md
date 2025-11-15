@@ -4,7 +4,7 @@ Hi 👋 My name is Francesco Marchetto
 Student
 -----------------
 
-👨‍🎓 I have a Bachelor Degree in Internet Of Things, Machine Learning and big data at the University of Udine 
+👨‍🎓 I have a Bachelor Degree in Internet Of Things, Machine Learning and big data at the University of Udine, I did an Erasmus in Gothenburg, Sweden for a semester
 I am currently enrolled in a Master Degree in Artificial Intelligence and CyberSecurity at University of Udine and University of Klagenfurt
 
 👀 I’m interested in AI for the medical field, big passion for hardware and finance
