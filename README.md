@@ -35,7 +35,7 @@ I am currently enrolled in a Master Degree in Artificial Intelligence and CyberS
 ## Reach out to me:
 
 <a href="https://linkedin.com/in/francesco-marchetto"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tobifsgl@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francescomarchetto.work@gmail.com)
 
 
 
